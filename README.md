@@ -11,8 +11,8 @@ This is a simple program that converts:
 ## How to Run
 1.Run the Python program
 2.choose:
-  -1 for Celsius to Fahrenheit
-  -2 for Fahrenheit to Celsius
+  1 for Celsius to Fahrenheit
+  2 for Fahrenheit to Celsius
 3. Enter the temperature
 4.View the converted result
 ## Future Improvements
